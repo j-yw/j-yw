@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Yiwei, I got my hands on a computer when i was 6 years old and I was hooked with tinkering with code, right now i'm focusing on bulding things for the web, recently I built a Netflix clone and are now doing a CSS deep dive with Josh at css-for-js.com.
+#### I'm Yiwei, I got my hands on a computer when i was 6 years old and I was hooked with tinkering code, right now i'm focusing on bulding things for the web, recently I built a Netflix clone and are now doing a CSS deep dive with Josh at css-for-js.com.
 <!--
 **j-yw/j-yw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
