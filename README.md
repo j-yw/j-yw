@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm a passionate learner focusing on building amazing things for the web.
+#### I'm a passionate learner focusing on building amazing things for the web, currenly building web3 products.
 <!--
 **j-yw/j-yw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
