@@ -23,9 +23,7 @@ Feel free to connect with me! I'm always open to discussing new opportunities, c
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=j-yw&show_icons=true&count_private=true&hide=issues&theme=radical)
-
-<!-- Optionally, you can add a GitHub activity graph using a service like https://github.com/anuraghazra/github-readme-stats -->
+[![j-yw's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-yw)](https://github.com/j-yw/github-readme-stats)
 
 ## 🤝 Open Source Contributions
 
